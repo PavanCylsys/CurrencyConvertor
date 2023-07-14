@@ -1,0 +1,36 @@
+.convertor{
+    /* border: 2px solid black; */
+    /* border-radius: 20px; */
+    width:40%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 26%;
+    top:130px;
+}
+
+input{
+    display: flex;
+    justify-content: space-between;
+     position: relative;
+     left: 20%;
+}
+
+label{
+    color: blue;
+    font-size: 30px;
+    position: relative;
+     left: 20%;
+}
+
+select{
+    display: flex;
+    justify-content: space-between;
+     position: relative;
+     left: 20%;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
